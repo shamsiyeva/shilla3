@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.asaasassds{
+    width: 1400px;
+    height: 500px;
+    display: flex;
+}
+.skrin__logo001{
+    width: 100vh;
+}
+.text1{
+font-weight: 400;
+font-size: 42px;
+line-height: 57px;
+margin-top: -11em;
+color: white;
+margin-left: 10em;
+}
+.nav__link009182{
+    margin-top: 19em;
+    margin-left: 1em;
+}
+.charosvssafiya{
+    color: gray;
+    font-weight: 900;
+    font-size: 35px;
+}
+.buygeliknow{
+margin-top: -450px;
+margin-left: 850px;
+font-weight: 900;
+font-size: 20px;
+
+}
+.brginnrihana{
+margin-left: 850px;
+margin-top: 5em;
+}
+
+.asleep{
+    color: black;
+    margin-left:55em;
+    text-decoration: none;
+    margin-top: 10em;
+    position: absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
